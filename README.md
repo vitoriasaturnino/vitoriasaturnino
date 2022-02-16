@@ -26,6 +26,6 @@
   <a href="https://www.instagram.com/vitoriacmoura_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  -->
   
-  ![snake animation](https://github.com/vitoriasaturnino)
+   ![Snake animation](https://github.com/rvitoriasaturnino/vitoriasaturnino/blob/output/github-contribution-grid-snake.svg)
 </div>
 
