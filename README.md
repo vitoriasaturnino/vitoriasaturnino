@@ -1,4 +1,4 @@
-### Oii eu sou a Vitória, estudante de tecnologia!
+### Hi I'm Vitória, technology student!
 
 ##
 
