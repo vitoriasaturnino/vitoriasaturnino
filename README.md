@@ -1,4 +1,6 @@
-### Hi I'm Vitória, technology student!
+<div style="display: inline_block"  align="center">
+  <img alt = "header" height="230rem" src="https://user-images.githubusercontent.com/68754092/170893832-0eac95d7-897d-4813-9855-59b93c582cb4.png"/>
+</div>
 
 ##
 
